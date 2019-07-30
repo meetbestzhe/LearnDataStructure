@@ -5889,11 +5889,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\00探索\\06DataStructure\\LearnDataStructure\\UnitTest\\UnitTest.csproj",
+      "projectUniqueName": "E:\\00探索\\06DataStructure\\gitDataStructure\\LearnDataStructure\\UnitTest\\UnitTest.csproj",
       "projectName": "UnitTest",
-      "projectPath": "E:\\00探索\\06DataStructure\\LearnDataStructure\\UnitTest\\UnitTest.csproj",
+      "projectPath": "E:\\00探索\\06DataStructure\\gitDataStructure\\LearnDataStructure\\UnitTest\\UnitTest.csproj",
       "packagesPath": "C:\\Users\\hwz\\.nuget\\packages\\",
-      "outputPath": "E:\\00探索\\06DataStructure\\LearnDataStructure\\UnitTest\\obj\\",
+      "outputPath": "E:\\00探索\\06DataStructure\\gitDataStructure\\LearnDataStructure\\UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5912,11 +5912,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "E:\\00探索\\06DataStructure\\LearnDataStructure\\LearnDataStructure\\LearnDataStructure.csproj": {
-              "projectPath": "E:\\00探索\\06DataStructure\\LearnDataStructure\\LearnDataStructure\\LearnDataStructure.csproj"
+            "E:\\00探索\\06DataStructure\\gitDataStructure\\LearnDataStructure\\LearnDataStructure\\LearnDataStructure.csproj": {
+              "projectPath": "E:\\00探索\\06DataStructure\\gitDataStructure\\LearnDataStructure\\LearnDataStructure\\LearnDataStructure.csproj"
             },
-            "E:\\00探索\\06DataStructure\\LearnDataStructure\\LeetCode\\LeetCode.csproj": {
-              "projectPath": "E:\\00探索\\06DataStructure\\LearnDataStructure\\LeetCode\\LeetCode.csproj"
+            "E:\\00探索\\06DataStructure\\gitDataStructure\\LearnDataStructure\\LeetCode\\LeetCode.csproj": {
+              "projectPath": "E:\\00探索\\06DataStructure\\gitDataStructure\\LearnDataStructure\\LeetCode\\LeetCode.csproj"
             }
           }
         }

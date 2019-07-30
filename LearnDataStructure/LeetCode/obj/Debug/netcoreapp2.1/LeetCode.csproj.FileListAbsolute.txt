@@ -7,3 +7,12 @@ E:\00探索\06DataStructure\LearnDataStructure\LeetCode\obj\Debug\netcoreapp2.1\
 E:\00探索\06DataStructure\LearnDataStructure\LeetCode\obj\Debug\netcoreapp2.1\LeetCode.dll
 E:\00探索\06DataStructure\LearnDataStructure\LeetCode\obj\Debug\netcoreapp2.1\LeetCode.pdb
 E:\00探索\06DataStructure\LearnDataStructure\LeetCode\obj\Debug\netcoreapp2.1\LeetCode.csprojAssemblyReference.cache
+E:\00探索\06DataStructure\gitDataStructure\LearnDataStructure\LeetCode\bin\Debug\netcoreapp2.1\LeetCode.deps.json
+E:\00探索\06DataStructure\gitDataStructure\LearnDataStructure\LeetCode\bin\Debug\netcoreapp2.1\LeetCode.dll
+E:\00探索\06DataStructure\gitDataStructure\LearnDataStructure\LeetCode\bin\Debug\netcoreapp2.1\LeetCode.pdb
+E:\00探索\06DataStructure\gitDataStructure\LearnDataStructure\LeetCode\obj\Debug\netcoreapp2.1\LeetCode.csprojAssemblyReference.cache
+E:\00探索\06DataStructure\gitDataStructure\LearnDataStructure\LeetCode\obj\Debug\netcoreapp2.1\LeetCode.csproj.CoreCompileInputs.cache
+E:\00探索\06DataStructure\gitDataStructure\LearnDataStructure\LeetCode\obj\Debug\netcoreapp2.1\LeetCode.AssemblyInfoInputs.cache
+E:\00探索\06DataStructure\gitDataStructure\LearnDataStructure\LeetCode\obj\Debug\netcoreapp2.1\LeetCode.AssemblyInfo.cs
+E:\00探索\06DataStructure\gitDataStructure\LearnDataStructure\LeetCode\obj\Debug\netcoreapp2.1\LeetCode.dll
+E:\00探索\06DataStructure\gitDataStructure\LearnDataStructure\LeetCode\obj\Debug\netcoreapp2.1\LeetCode.pdb

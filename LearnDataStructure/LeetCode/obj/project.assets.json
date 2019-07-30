@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\00探索\\06DataStructure\\LearnDataStructure\\LeetCode\\LeetCode.csproj",
+      "projectUniqueName": "E:\\00探索\\06DataStructure\\gitDataStructure\\LearnDataStructure\\LeetCode\\LeetCode.csproj",
       "projectName": "LeetCode",
-      "projectPath": "E:\\00探索\\06DataStructure\\LearnDataStructure\\LeetCode\\LeetCode.csproj",
+      "projectPath": "E:\\00探索\\06DataStructure\\gitDataStructure\\LearnDataStructure\\LeetCode\\LeetCode.csproj",
       "packagesPath": "C:\\Users\\hwz\\.nuget\\packages\\",
-      "outputPath": "E:\\00探索\\06DataStructure\\LearnDataStructure\\LeetCode\\obj\\",
+      "outputPath": "E:\\00探索\\06DataStructure\\gitDataStructure\\LearnDataStructure\\LeetCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

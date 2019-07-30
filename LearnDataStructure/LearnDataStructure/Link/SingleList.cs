@@ -188,6 +188,7 @@ namespace LearnDataStructure.Lists
             {
                 q = q.Next;
             }
+            q.Next = q.Next.Next;
         }
 
         public void DeleteByValue(T value)
@@ -214,7 +215,6 @@ namespace LearnDataStructure.Lists
             {
                 q.Next = q.Next.Next;
             }
-
 
         }
 

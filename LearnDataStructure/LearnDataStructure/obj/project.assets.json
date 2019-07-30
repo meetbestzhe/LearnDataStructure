@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\00探索\\06DataStructure\\LearnDataStructure\\LearnDataStructure\\LearnDataStructure.csproj",
+      "projectUniqueName": "E:\\00探索\\06DataStructure\\gitDataStructure\\LearnDataStructure\\LearnDataStructure\\LearnDataStructure.csproj",
       "projectName": "LearnDataStructure",
-      "projectPath": "E:\\00探索\\06DataStructure\\LearnDataStructure\\LearnDataStructure\\LearnDataStructure.csproj",
+      "projectPath": "E:\\00探索\\06DataStructure\\gitDataStructure\\LearnDataStructure\\LearnDataStructure\\LearnDataStructure.csproj",
       "packagesPath": "C:\\Users\\hwz\\.nuget\\packages\\",
-      "outputPath": "E:\\00探索\\06DataStructure\\LearnDataStructure\\LearnDataStructure\\obj\\",
+      "outputPath": "E:\\00探索\\06DataStructure\\gitDataStructure\\LearnDataStructure\\LearnDataStructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

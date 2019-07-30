@@ -48,5 +48,7 @@ namespace UnitTest.DataStructure
             lru.Look(4);
             lru.Look(6);
         }
+
+    
     }
 }
