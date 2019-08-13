@@ -14,7 +14,6 @@ namespace LearnDataStructure.HashTable
     /// 测试两个地方,第一个是初始化添加,再一个是减去的时候,赋值
     /// 扩容思路:先开辟一个新的2倍空间,然后把之前的再通过hash函数转变,然后放进去
     /// 注意数组初始化时,需要开辟空间
-    /// </summary>
     /// <typeparam name="K"></typeparam>
     /// <typeparam name="V"></typeparam>
    public class HashTableDefine<K,V>
@@ -176,7 +175,6 @@ namespace LearnDataStructure.HashTable
                 {
                     bucketArray.Add(null);
                 }
-
                 //这里调自有方法,重新添加一遍
                 foreach (HashNode<K, V> node in temp)
                 {
@@ -186,10 +184,8 @@ namespace LearnDataStructure.HashTable
                        head = head.next;
                     }
                 }
-
             }
         }
-
     }
 
     class HashNode<K, V>
