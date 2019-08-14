@@ -9,7 +9,6 @@ namespace UnitTest.DataStructure
 {
     public static class SearchTest
     {
-        
         [Fact]
         public static void DoTest()
         {
