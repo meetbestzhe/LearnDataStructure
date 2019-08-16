@@ -15,3 +15,4 @@ E:\00探索\06DataStructure\gitDataStructure\LearnDataStructure\LearnDataStructu
 E:\00探索\06DataStructure\gitDataStructure\LearnDataStructure\LearnDataStructure\obj\Debug\netcoreapp2.1\LearnDataStructure.AssemblyInfo.cs
 E:\00探索\06DataStructure\gitDataStructure\LearnDataStructure\LearnDataStructure\obj\Debug\netcoreapp2.1\LearnDataStructure.dll
 E:\00探索\06DataStructure\gitDataStructure\LearnDataStructure\LearnDataStructure\obj\Debug\netcoreapp2.1\LearnDataStructure.pdb
+E:\00探索\06DataStructure\gitDataStructure\LearnDataStructure\LearnDataStructure\obj\Debug\netcoreapp2.1\LearnDataStructure.csprojAssemblyReference.cache

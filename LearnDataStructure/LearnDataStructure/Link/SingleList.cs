@@ -313,7 +313,6 @@ namespace LearnDataStructure.Lists
                 resultist.InsertTail(b.head.getData());
                 b.head = b.head.Next;
             }
-
             return resultist;
         }
 
