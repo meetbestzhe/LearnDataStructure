@@ -38,8 +38,6 @@ namespace UnitTest.DataStructure
             minHeap.Insert(22);
             minHeap.Insert(9);
 
-        
-
             for (int i = 1; i <= minHeap.Size / 2; i++)
             {
                 output.WriteLine($"Parent:{minHeap.Heap[i]} Left Child:{minHeap.Heap[2*i]} Right Child:{minHeap.Heap[2*i+1]}");
@@ -73,7 +71,6 @@ namespace UnitTest.DataStructure
             maxHeap.Insert(6);
             maxHeap.Insert(22);
             maxHeap.Insert(9);
-
 
 
             for (int i = 1; i <= maxHeap.Size / 2; i++)
